@@ -52,10 +52,4 @@ This Python script leverages the Selenium WebDriver to automate the job applicat
 
 If you'd like to contribute to the project, feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 Feel free to customize this template according to your specific requirements and project details. Provide clear instructions on how users can set up and use your automation script.
